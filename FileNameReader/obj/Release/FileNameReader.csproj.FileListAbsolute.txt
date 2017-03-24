@@ -1,0 +1,8 @@
+D:\WrittenByflyguolai\FileNameReader\FileNameReader\bin\Release\FileNameReader.exe.config
+D:\WrittenByflyguolai\FileNameReader\FileNameReader\bin\Release\FileNameReader.exe
+D:\WrittenByflyguolai\FileNameReader\FileNameReader\bin\Release\FileNameReader.pdb
+D:\WrittenByflyguolai\FileNameReader\FileNameReader\obj\Release\FileNameReader.Form1.resources
+D:\WrittenByflyguolai\FileNameReader\FileNameReader\obj\Release\FileNameReader.Properties.Resources.resources
+D:\WrittenByflyguolai\FileNameReader\FileNameReader\obj\Release\FileNameReader.csproj.GenerateResource.Cache
+D:\WrittenByflyguolai\FileNameReader\FileNameReader\obj\Release\FileNameReader.exe
+D:\WrittenByflyguolai\FileNameReader\FileNameReader\obj\Release\FileNameReader.pdb
